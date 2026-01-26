@@ -7,7 +7,7 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<p align="left">Meu nome é Anna Beatriz Dantas, tenho 17 anos e sou de Praia Grande - SP. Recentemente, concluí o ensino médio na Fortec, onde também obtive um curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Unisanta. Sou apaixonada por tecnologia e estou sempre em busca de aprimorar meus conhecimentos na área.
+<p align="left">Meu nome é Anna Beatriz Dantas, tenho 18 anos e sou de Praia Grande - SP. Concluí o ensino médio na Fortec, onde também obtive um curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Unisanta. Sou apaixonada por tecnologia e estou sempre em busca de aprimorar meus conhecimentos na área.
 </p>
 
 <br>
