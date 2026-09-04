@@ -29,6 +29,29 @@
 
 ---
 
+## 🛠️ Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-F5B700?style=for-the-badge&logo=csharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-FFCA28?style=for-the-badge&logo=dotnet&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-E5A900?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-FFC107?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFB300?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-F9A825?style=for-the-badge&logo=css3&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FBC02D?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FFD54F?style=for-the-badge&logo=github&logoColor=black)
+
+
+![C#](https://img.shields.io/badge/C%23-F5B700?style=for-the-badge&logo=csharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-F5B700?style=for-the-badge&logo=dotnet&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-F5B700?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5B700?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-F5B700?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-F5B700?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-F5B700?style=for-the-badge&logo=css3&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F5B700?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-F5B700?style=for-the-badge&logo=github&logoColor=black)
+
 ## 🚀 Projetos em destaque
 
 
