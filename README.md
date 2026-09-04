@@ -1,11 +1,7 @@
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9234BB&width=435&lines=Ol%C3%A1+Bem-vindo!+Eu+sou+a+Anna+Beatriz!" alt="Typing SVG" /></a>
-    
-**`Desenvolvedora Front-end`**
 
 </div>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="center" alt="" height="190px" src="./src/we.gif">
 
 <p align="left">Meu nome é Anna Beatriz Dantas, tenho 18 anos e sou de Praia Grande - SP. Concluí o ensino médio na Fortec, onde também obtive um curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Unisanta. Sou apaixonada por tecnologia e estou sempre em busca de aprimorar meus conhecimentos na área.
 </p>
