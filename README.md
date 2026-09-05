@@ -35,8 +35,32 @@
 </div>
 
 
-## 🚀 Projetos em destaque
+<h2 align="center">💛 Sobre Mim</h2>
 
+<img 
+  src="./assets/anna-avatar.png" 
+  width="280px"
+  align="left"
+/>
+
+<div>
+  <br>
+  
+  Oi! Eu sou <b>Anna Beatriz</b>, estudante de 
+  <b>Sistemas de Informação</b> e Técnica em Informática.
+  
+  <br><br>
+  
+  Atualmente, meu foco é <b>desenvolvimento Back-end com C# e .NET</b>,
+  criando projetos para aprimorar meus conhecimentos em programação,
+  banco de dados e desenvolvimento de sistemas.
+  
+  <br><br>
+  
+  Estou sempre buscando <b>aprender, evoluir e transformar ideias em código.</b> 🚀
+</div>
+
+<br clear="left"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaBeatrizdc/AnnaBeatrizdc/output/github-contribution-grid-snake-dark.svg">
