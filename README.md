@@ -1,52 +1,39 @@
-
-</div>
-
 <img align="center" alt="" src="Anna.png">
-
-<p align="left">Meu nome é Anna Beatriz Dantas, tenho 18 anos e sou de Praia Grande - SP. Concluí o ensino médio na Fortec, onde também obtive um curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Unisanta. Sou apaixonada por tecnologia e estou sempre em busca de aprimorar meus conhecimentos na área.
-</p>
 
 <br>
 
-<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
 
-##
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-171007?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-9c5e03?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
 
----
+  <a href="SEU_LINK_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-f9b723?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 
-## 🛠️ Tecnologias
+</div>
 
-![C#](https://img.shields.io/badge/C%23-F5B700?style=for-the-badge&logo=csharp&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-FFCA28?style=for-the-badge&logo=dotnet&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-E5A900?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-FFC107?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFB300?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-F9A825?style=for-the-badge&logo=css3&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FBC02D?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-FFD54F?style=for-the-badge&logo=github&logoColor=black)
+<h2 align="center">⚡ Tecnologias & Ferramentas</h2>
 
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-F5B700?style=for-the-badge&logo=csharp&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-F5B700?style=for-the-badge&logo=dotnet&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-F5B700?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5B700?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-F5B700?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-F5B700?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-F5B700?style=for-the-badge&logo=css3&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F5B700?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-F5B700?style=for-the-badge&logo=github&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-171007?style=for-the-badge&logo=csharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-171007?style=for-the-badge&logo=dotnet&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-171007?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-9c5e03?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-9c5e03?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-9c5e03?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-9c5e03?style=for-the-badge&logo=css3&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f9b723?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-f9b723?style=for-the-badge&logo=github&logoColor=black)
+
+</div>
+
 
 ## 🚀 Projetos em destaque
 
