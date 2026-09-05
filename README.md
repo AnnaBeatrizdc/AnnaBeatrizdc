@@ -1,4 +1,4 @@
-<img align="center" alt="" src="Anna.png">
+<img align="center" alt="" src="Banner.png">
 
 <br>
 
@@ -83,7 +83,7 @@ validações, integração com API externa e banco de dados.
 ![JSON](https://img.shields.io/badge/JSON-F5B700?style=flat-square&logo=json&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F5B700?style=flat-square&logo=git&logoColor=black)
 
-**[Ver projeto →](LINK-CONTFY)**
+**[Ver projeto →](https://github.com/AnnaBeatrizdc/Contfy)**
 
 <br>
 
@@ -100,7 +100,7 @@ utilizando sockets e arquitetura Cliente/Servidor.
 ![Threads](https://img.shields.io/badge/Threads-F5B700?style=flat-square&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F5B700?style=flat-square&logo=git&logoColor=black)
 
-**[Cliente →](LINK-CLIENTE)** • **[Servidor →](LINK-SERVIDOR)**
+**[Cliente →](https://github.com/AnnaBeatrizdc/ChatCliente)** • **[Servidor →](https://github.com/AnnaBeatrizdc/ChatServidor)**
 
 <br>
 
@@ -117,4 +117,4 @@ obtidas em tempo real através de uma API externa.
 ![Git](https://img.shields.io/badge/Git-F5B700?style=flat-square&logo=git&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive_Design-F5B700?style=flat-square&logoColor=black)
 
-**[Ver projeto →](LINK-CONVERSOR)**
+**[Ver projeto →](https://github.com/AnnaBeatrizdc/Conversor_de_moedas)**
