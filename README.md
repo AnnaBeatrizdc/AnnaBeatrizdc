@@ -118,3 +118,9 @@ obtidas em tempo real através de uma API externa.
 ![Responsive](https://img.shields.io/badge/Responsive_Design-F5B700?style=flat-square&logoColor=black)
 
 **[Ver projeto →](LINK-CONVERSOR)**
+
+## 📈 Minhas Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaBeatrizdc&bg_color=0D0D0D&color=F5B700&line=F5B700&point=FFFFFF&area=true&hide_border=true">
+</p>
