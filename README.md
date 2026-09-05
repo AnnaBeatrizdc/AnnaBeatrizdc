@@ -4,15 +4,15 @@
 
 <div align="center">
 
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/annabeatrizdantass/">
     <img src="https://img.shields.io/badge/LinkedIn-171007?style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:annabeatrizzdantas@gmail.com">
     <img src="https://img.shields.io/badge/Email-9c5e03?style=for-the-badge&logo=gmail&logoColor=black">
   </a>
 
-  <a href="SEU_LINK_LEETCODE">
+  <a href="https://leetcode.com/u/annabeatrizdc/">
     <img src="https://img.shields.io/badge/LeetCode-f9b723?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 
