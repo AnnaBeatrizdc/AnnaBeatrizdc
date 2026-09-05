@@ -18,6 +18,8 @@
 
 </div>
 
+<br>
+
 <h2 align="center">⚡ Tecnologias & Ferramentas</h2>
 
 <div align="center">
@@ -34,14 +36,16 @@
 
 </div>
 
+<br>
 
 <h2 align="center">💛 Sobre Mim</h2>
 
 <img 
-  src="./assets/anna-avatar.png" 
-  width="280px"
+  src="avatar.png" 
+  width="230px"
   align="left"
 />
+<br>
 
 <div>
   <br>
@@ -49,22 +53,68 @@
   Oi! Eu sou <b>Anna Beatriz</b>, estudante de 
   <b>Sistemas de Informação</b> e Técnica em Informática.
   
-  <br><br>
+  
   
   Atualmente, meu foco é <b>desenvolvimento Back-end com C# e .NET</b>,
   criando projetos para aprimorar meus conhecimentos em programação,
   banco de dados e desenvolvimento de sistemas.
   
-  <br><br>
+  
   
   Estou sempre buscando <b>aprender, evoluir e transformar ideias em código.</b> 🚀
 </div>
 
-<br clear="left"/>
+<br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaBeatrizdc/AnnaBeatrizdc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaBeatrizdc/Annabeatrizdc/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Annabeatrizdc/Annabeatrizdc/output/github-contribution-grid-snake.svg">
-</picture>
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
+<br>
+
+### 📦 Contfy
+
+Sistema de gerenciamento de containers com autenticação de usuários, operações CRUD,
+validações, integração com API externa e banco de dados.
+
+![C#](https://img.shields.io/badge/C%23-F5B700?style=flat-square&logo=csharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-F5B700?style=flat-square&logo=dotnet&logoColor=black)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-F5B700?style=flat-square&logo=windows&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-F5B700?style=flat-square&logo=microsoftsqlserver&logoColor=black)
+![API REST](https://img.shields.io/badge/API_REST-F5B700?style=flat-square&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-F5B700?style=flat-square&logo=json&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F5B700?style=flat-square&logo=git&logoColor=black)
+
+**[Ver projeto →](LINK-CONTFY)**
+
+<br>
+
+### 💬 Chat Cliente/Servidor
+
+Aplicação de chat para comunicação entre diferentes computadores em uma rede,
+utilizando sockets e arquitetura Cliente/Servidor.
+
+![C#](https://img.shields.io/badge/C%23-F5B700?style=flat-square&logo=csharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-F5B700?style=flat-square&logo=dotnet&logoColor=black)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-F5B700?style=flat-square&logo=windows&logoColor=black)
+![Sockets](https://img.shields.io/badge/Sockets-F5B700?style=flat-square&logoColor=black)
+![UDP](https://img.shields.io/badge/UDP-F5B700?style=flat-square&logoColor=black)
+![Threads](https://img.shields.io/badge/Threads-F5B700?style=flat-square&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F5B700?style=flat-square&logo=git&logoColor=black)
+
+**[Cliente →](LINK-CLIENTE)** • **[Servidor →](LINK-SERVIDOR)**
+
+<br>
+
+### 💱 Conversor de Moedas
+
+Aplicação web responsiva para conversão de moedas utilizando cotações
+obtidas em tempo real através de uma API externa.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F5B700?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-F5B700?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-F5B700?style=flat-square&logo=css&logoColor=black)
+![API REST](https://img.shields.io/badge/API_REST-F5B700?style=flat-square&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-F5B700?style=flat-square&logo=json&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F5B700?style=flat-square&logo=git&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive_Design-F5B700?style=flat-square&logoColor=black)
+
+**[Ver projeto →](LINK-CONVERSOR)**
